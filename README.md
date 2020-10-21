@@ -1,0 +1,2 @@
+# bodega
+objetos aplicacion bodega
